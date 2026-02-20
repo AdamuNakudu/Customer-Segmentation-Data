@@ -21,8 +21,6 @@ Key Questions this analysis will attempt to answer:
 
 Using Excel pivot tables and charts: 
 Shopping habits of male vs females:
-<img width="468" height="522" alt="image" src="https://github.com/user-attachments/assets/fa1ba576-85ad-4b38-8824-0aec90bb191a" />
-
 
 
 <img width="387" height="217" alt="image" src="https://github.com/user-attachments/assets/c4f7a6e2-ec90-406d-b975-6bf8c8f9f3d3" />
