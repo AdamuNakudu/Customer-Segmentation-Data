@@ -1,6 +1,6 @@
 # Customer-Segmentation-Data
 Customer Segmentation: Identifying high-value customer behaviour and growth opportunities.
-This dataset contains 350 customer records with a mix of numerical and categorical features. It includes demographics, spending behavior, and product preferences, making it suitable for unsupervised learning and customer segmentation tasks.
+This dataset contains 350 customer records with a mix of numerical and categorical features. It includes demographics, spending behavior, and product preferences.
 Key Questions this analysis will attempt to answer: 
 1.	Demographics
 •	Income disparity between genders (who earns more and who spends more)
