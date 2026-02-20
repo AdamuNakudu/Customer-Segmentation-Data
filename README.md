@@ -18,7 +18,7 @@ Key Questions this analysis will attempt to answer:
 
 
 
-  <u>Demographics</u>
+  <ins>Demographics</ins>
 
 Using Excel pivot tables and charts: 
 Shopping habits of male vs females:
