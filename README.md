@@ -29,16 +29,7 @@ Shopping habits of male vs females:
 Chart 1: Gender differences in product purchasing.
 
 
-Row Labels	Count of Gender	Average of 
-Annual income	Average of 
-Spending Score	Average of 
-Monthly Visits
-Female	159	 $ 68,855 	50.09	9.2
-Male	191	 $ 73,177 	49.14	9.8
-
 Table 1: Gender differences in annual income, spending and visits.
-
-
 
  
 Chart 2: Differences in spending score with age and gender.
