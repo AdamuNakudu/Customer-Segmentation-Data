@@ -1,7 +1,27 @@
 # Customer-Segmentation-Data
-Analysis of customer data
+Customer Segmentation: Identifying high-value customer behaviour and growth opportunities
+This dataset contains 350 customer records with a mix of numerical and categorical features. It includes demographics, spending behavior, and product preferences, making it suitable for unsupervised learning and customer segmentation tasks.
+Key Questions this analysis will attempt to answer: 
+1.	Demographics
+•	Income disparity between genders (who earns more and who spends more)
+•	Income disparity between ages (who earns and who spends more)
+•	Lowest spending score age group? 
+•	Do the top earners in each gender display similar spending habits?
+2.	Correlational
+•	Do monthly visits correlate with higher spending? If not, then find out which product has the lowest, and discuss why. 
+•	Is age positively or negatively correlated with spending?
+3.	Important: Growth potential 
+•	Are there customers with high income but low spending? For which products? Upsell opportunity? 
+•	Which products are associated with higher spending segments?
+•	Which demographic can have the highest potential return if targetted for ads and loyalty programs?
 
-Data from Kaggle
+
+
+1.	Demographics
+
+Using Excel pivot tables and charts: 
+Shopping habits of male vs females:
+<img width="468" height="522" alt="image" src="https://github.com/user-attachments/assets/fa1ba576-85ad-4b38-8824-0aec90bb191a" />
 
 
 
