@@ -17,6 +17,8 @@ Key Questions this analysis will attempt to answer:
 
 
 
+
+
 1.	Demographics
 
 Using Excel pivot tables and charts: 
