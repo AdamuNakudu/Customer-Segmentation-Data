@@ -32,6 +32,6 @@ Chart 1: Gender differences in product purchasing.
 Table 1: Gender differences in annual income, spending and visits.
 
  
-Chart 2: Differences in spending score with age and gender.
-<img width="468" height="444" alt="image" src="https://github.com/user-attachments/assets/46d868f8-32ac-41c3-b39d-23fad7f50882" />
 
+<img width="387" height="266" alt="image" src="https://github.com/user-attachments/assets/a6f86079-8db1-4a2b-bc92-956504104bf4" />
+Chart 2: Differences in spending score with age and gender.
