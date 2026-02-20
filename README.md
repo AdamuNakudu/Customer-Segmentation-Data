@@ -34,4 +34,5 @@ Table 1: Gender differences in annual income, spending and visits.
  
 
 <img width="387" height="266" alt="image" src="https://github.com/user-attachments/assets/a6f86079-8db1-4a2b-bc92-956504104bf4" />
+
 Chart 2: Differences in spending score with age and gender.
