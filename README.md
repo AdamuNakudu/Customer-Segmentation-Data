@@ -15,6 +15,16 @@ Key Questions this analysis will attempt to answer:
 •	Which products are associated with higher spending segments?
 •	Which demographic can have the highest potential return if targetted for ads and loyalty programs?
 
+High income / High spending	Premium segment
+
+High income / Low spending	Underutilised potential
+
+Low income / High spending	Loyal customers
+
+Low income / Low spending	Low value
+
+
+
 
 
 
